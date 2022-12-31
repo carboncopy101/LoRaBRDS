@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name antenna)(type KiCad)(uri ${KIPRJMOD}/libraries/antenna)(options "")(descr ""))
+  (lib (name HopeRF)(type KiCad)(uri ${KIPRJMOD}/libraries/HopeRF)(options "")(descr ""))
+  (lib (name mounting)(type KiCad)(uri ${KIPRJMOD}/libraries/mounting)(options "")(descr ""))
+  (lib (name promicro_library)(type KiCad)(uri ${KIPRJMOD}/libraries/ProMicroKiCad-master/promicro_library)(options "")(descr ""))
+  (lib (name button)(type KiCad)(uri ${KIPRJMOD}/libraries/button)(options "")(descr ""))
+  (lib (name solderjumper)(type KiCad)(uri ${KIPRJMOD}/libraries/solderjumper/solderjumper.pretty)(options "")(descr ""))
+  (lib (name logicshifter)(type KiCad)(uri ${KIPRJMOD}/libraries/logicshifter)(options "")(descr ""))
+)

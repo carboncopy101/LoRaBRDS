@@ -1,0 +1,21 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# smd_tact_switch
+#
+DEF smd_tact_switch U 0 40 Y Y 1 F N
+F0 "U" 0 -400 50 H V C CNN
+F1 "smd_tact_switch" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+C 0 -200 50 0 1 0 N
+P 8 0 1 0 0 -100 100 -100 100 -200 100 -300 0 -300 -100 -300 -100 -100 0 -100 N
+X ~ ~ -200 -250 100 R 50 50 1 1 I
+X ~ ~ -200 -150 100 R 50 50 1 1 I
+X ~ ~ 200 -250 100 L 50 50 1 1 I
+X ~ ~ 200 -150 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

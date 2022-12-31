@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name antenna)(type Legacy)(uri ${KIPRJMOD}/libraries/antenna/antenna.lib)(options "")(descr ""))
+  (lib (name hoperf)(type Legacy)(uri ${KIPRJMOD}/libraries/HopeRF/hoperf.lib)(options "")(descr ""))
+  (lib (name mounting)(type Legacy)(uri ${KIPRJMOD}/libraries/mounting/mounting.lib)(options "")(descr ""))
+  (lib (name promicro)(type Legacy)(uri ${KIPRJMOD}/libraries/ProMicroKiCad-master/promicro_library/promicro.lib)(options "")(descr ""))
+  (lib (name logicshifter)(type Legacy)(uri ${KIPRJMOD}/libraries/logicshifter/logicshifter.lib)(options "")(descr ""))
+)
